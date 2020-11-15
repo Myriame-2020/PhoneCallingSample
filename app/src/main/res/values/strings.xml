@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Phone Call Dialling Sample</string>
+    <string name="phone_number">14155551212></string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="retry">Retry</string>
+    <string name="dial_number">\"Phone Status: DIALING: \"</string>
+    <string name="telephony_enabled">\"TELEPHONY NOT ENABLED! \"</string>
+    <string name="telephony_not_enabled">\"TELEPHONY NOT ENABLED! \"</string>
+    <string name="phone_disabled">Phone calling disabled</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED!</string>
+    <string name="failure_permission">Failure to obtain permission!</string>
+    <string name="phone_status">\"Phone Status: \"</string>
+    <string name="ringing">\"RINGING, number: \"</string>
+    <string name="restarting_app">\"Restarting app\"</string>
+    <string name="idle">\"IDLE\"</string>
+    <string name="offhook">\"OFFHOOK\"</string>
+</resources>
